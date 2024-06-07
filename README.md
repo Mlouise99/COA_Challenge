@@ -8,7 +8,7 @@ https://mlouise99.github.io/COA_Challenge/
 # Coding Challenge Solutions
 
 ## Challenge 1: Array Manipulation
-# explanation
+## explanation
 The SubarrayWithTargetSum function checks if there exists a contiguous subarray within the given array whose elements sum up to the specified target.
 
 Parameters
@@ -49,7 +49,7 @@ function SubarrayWithTargetSum(arr, target) {
 const arr = [4, 2, 7, 1, 9, 5];
 const target = 17;
 console.log(SubarrayWithTargetSum(arr, target));
-# Here below are outpout of challenge1
+## Here below are outpout of challenge1
  true
 
 ## Challenge 2: explanation of String Transformation
